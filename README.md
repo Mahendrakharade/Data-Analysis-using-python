@@ -1,2 +1,2 @@
 # Python
-Python Practice and project
+Python Practice and Project
